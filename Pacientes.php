@@ -83,5 +83,5 @@ while (true) {
     }
 }
 
-echo "Saindo do sistema...\n";
+echo "Saindo...\n";
 ?>
